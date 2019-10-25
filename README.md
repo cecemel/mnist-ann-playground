@@ -28,7 +28,7 @@ docker run -ti --rm -v "$PWD":/app -w /app cecemel/mnist-ann-playground python m
 The main.py contains parameters to play with.
 
 ## Sources
-[Neural networks: A visual introduction for beginnersb (Michael Taylor)](https://rkbookreviews.wordpress.com/2018/06/19/neural-networks-a-visual-introduction-for-beginners/)
-[A nice video on how to calculate the gradient](https://www.youtube.com/watch?v=tIeHLnjs5U8)
-[https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
+[Neural networks: A visual introduction for beginnersb (Michael Taylor)](https://rkbookreviews.wordpress.com/2018/06/19/neural-networks-a-visual-introduction-for-beginners/)\
+[A nice video on how to calculate the gradient](https://www.youtube.com/watch?v=tIeHLnjs5U8)\
+[https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)\
 [https://deepnotes.io/softmax-crossentropy](https://deepnotes.io/softmax-crossentropy)
