@@ -1,5 +1,5 @@
 # MNIST ANN playground
-A "I-am-bored-on-a-holiday-let's-play-with-neural-nets" project.
+
 
 A neural network build from scratch, trained to work on MNIST handwritten digits.
 It's slow, the implementation of the math is ugly, I was lazy documenting and writing it, but hey, I learned something.
